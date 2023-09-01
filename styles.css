@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.fnt{
+	font-weight:bold;
+	
+}
+.bg{
+	background-color:black;
+	color:white;
+}
